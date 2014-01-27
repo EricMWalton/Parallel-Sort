@@ -13,7 +13,7 @@ Simply copy and paste the contents of "fullProgram.cpp" into the Udacity IDE.  P
 Speed
 -----
 
-This is not quite in the ballpark of the fastest solutions on Udacity--various commenters report times of around 1 millisecond.  My version runs in about 6 milliseconds.
+This is not quite in the ballpark of the fastest solutions on Udacity---various commenters report times of around 1 millisecond.  My version runs in about 6 milliseconds.
 
 Acknowledgements
 ----------------
